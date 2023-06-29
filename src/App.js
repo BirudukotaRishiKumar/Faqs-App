@@ -1,3 +1,4 @@
+// https://rkfaqs.ccbp.tech/
 import Faqs from './components/Faqs'
 
 import './App.css'
